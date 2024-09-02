@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MindBox.UnitTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15652d771c429ba4ca20deff060bb3bffa70444e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8cccaa77fe8a765c0a69e1e3fbe379f29c7997d")]
 [assembly: System.Reflection.AssemblyProductAttribute("MindBox.UnitTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MindBox.UnitTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
