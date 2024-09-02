@@ -18,16 +18,6 @@ public sealed class FiguresTest
         }
     }
     
-    private static IEnumerable CorrectSquareWithoutFigureTypeTestCases
-    {
-        get
-        {
-            yield return new TestCaseData(new Circle(10), 314);
-            yield return new TestCaseData(new Triangle(3, 4, 5), 6);
-            yield return new TestCaseData(new Triangle(5, 15, 11), 19.136);
-        }
-    }
-    
     private static IEnumerable IsTriangleRectTestCases
     {
         get
