@@ -4,11 +4,9 @@ namespace MindBox.SquareCouter.Figures;
 
 public sealed class Triangle : FigureBase
 {
-    internal double Square { get; private set; }
-
-    private double _firstSide;
-    private double _secondSide;
-    private double _thirdSide;
+    private readonly double _firstSide;
+    private readonly double _secondSide;
+    private readonly double _thirdSide;
 
     public Triangle(double firstSide, double secondSide, double thirdSide)
     {
@@ -17,7 +15,7 @@ public sealed class Triangle : FigureBase
         _thirdSide = thirdSide;
 
         var semiPerimeter = CountSemiPerimeter(firstSide, secondSide, thirdSide);
-        Square = CountSquare(firstSide, secondSide, thirdSide, semiPerimeter);
+        Square = Math.Round(CountSquare(firstSide, secondSide, thirdSide, semiPerimeter), 3);
     }
 
     public bool IsTriangleRect()
@@ -41,10 +39,5 @@ public sealed class Triangle : FigureBase
     private double CountSquare(double firstSide, double secondSide, double thirdSide, double perimeter)
     {
         return Math.Sqrt(perimeter * (perimeter - firstSide) * (perimeter - secondSide) * (perimeter - thirdSide));
-    }
-
-    private double GetMax(params double[] values)
-    {
-        return values.Max();
     }
 }

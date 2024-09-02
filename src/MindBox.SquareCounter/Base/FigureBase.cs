@@ -2,5 +2,5 @@
 
 public abstract class FigureBase
 {
-    internal double Square { get; }
+    public double Square { get; protected init; }
 }

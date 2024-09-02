@@ -9,6 +9,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionIt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindBox.SquareCouter", "MindBox.SquareCounter\MindBox.SquareCouter.csproj", "{D3E55AE1-7800-43FC-B417-DBE77DB9553C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MindBox.Tests", "MindBox.Tests", "{EB91020B-A534-4A7A-B139-9199FC044E04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindBox.UnitTests", "MindBox.UnitTests\MindBox.UnitTests.csproj", "{CBC962AC-5434-42D6-8541-67ED3B1F66B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,8 +23,13 @@ Global
 		{D3E55AE1-7800-43FC-B417-DBE77DB9553C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3E55AE1-7800-43FC-B417-DBE77DB9553C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3E55AE1-7800-43FC-B417-DBE77DB9553C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBC962AC-5434-42D6-8541-67ED3B1F66B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBC962AC-5434-42D6-8541-67ED3B1F66B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBC962AC-5434-42D6-8541-67ED3B1F66B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBC962AC-5434-42D6-8541-67ED3B1F66B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{D3E55AE1-7800-43FC-B417-DBE77DB9553C} = {39DC039B-10C6-44D2-B69E-97E23F776BC4}
+		{CBC962AC-5434-42D6-8541-67ED3B1F66B6} = {EB91020B-A534-4A7A-B139-9199FC044E04}
 	EndGlobalSection
 EndGlobal

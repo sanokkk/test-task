@@ -1,0 +1,11 @@
+D:\projects\mine\csharp\MindBox\src\MindBox.SquareCounter\bin\Debug\net8.0\MindBox.SquareCouter.deps.json
+D:\projects\mine\csharp\MindBox\src\MindBox.SquareCounter\bin\Debug\net8.0\MindBox.SquareCouter.dll
+D:\projects\mine\csharp\MindBox\src\MindBox.SquareCounter\bin\Debug\net8.0\MindBox.SquareCouter.pdb
+D:\projects\mine\csharp\MindBox\src\MindBox.SquareCounter\obj\Debug\net8.0\MindBox.SquareCouter.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\mine\csharp\MindBox\src\MindBox.SquareCounter\obj\Debug\net8.0\MindBox.SquareCouter.AssemblyInfoInputs.cache
+D:\projects\mine\csharp\MindBox\src\MindBox.SquareCounter\obj\Debug\net8.0\MindBox.SquareCouter.AssemblyInfo.cs
+D:\projects\mine\csharp\MindBox\src\MindBox.SquareCounter\obj\Debug\net8.0\MindBox.SquareCouter.csproj.CoreCompileInputs.cache
+D:\projects\mine\csharp\MindBox\src\MindBox.SquareCounter\obj\Debug\net8.0\MindBox.SquareCouter.dll
+D:\projects\mine\csharp\MindBox\src\MindBox.SquareCounter\obj\Debug\net8.0\refint\MindBox.SquareCouter.dll
+D:\projects\mine\csharp\MindBox\src\MindBox.SquareCounter\obj\Debug\net8.0\MindBox.SquareCouter.pdb
+D:\projects\mine\csharp\MindBox\src\MindBox.SquareCounter\obj\Debug\net8.0\ref\MindBox.SquareCouter.dll
