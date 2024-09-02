@@ -2,9 +2,9 @@
 
 namespace MindBox.SquareCouter.Figures;
 
-public sealed class Triangle : IFIgure
+public sealed class Triangle : FigureBase
 {
-    public double Square { get; private set; }
+    internal double Square { get; private set; }
 
     private double _firstSide;
     private double _secondSide;

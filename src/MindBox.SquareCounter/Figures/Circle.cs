@@ -2,9 +2,9 @@
 
 namespace MindBox.SquareCouter.Figures;
 
-public sealed class Circle : IFIgure
+public sealed class Circle : FigureBase
 {
-    public double Square { get; private set; }
+    internal double Square { get; private set; }
 
     public Circle(double raduis)
     {
