@@ -5,6 +5,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{B0612F15-D757-482F-9F20-2FE273625132}"
 	ProjectSection(SolutionItems) = preProject
 		..\.gitignore = ..\.gitignore
+		..\sql\task.sql = ..\sql\task.sql
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindBox.SquareCouter", "MindBox.SquareCounter\MindBox.SquareCouter.csproj", "{D3E55AE1-7800-43FC-B417-DBE77DB9553C}"
